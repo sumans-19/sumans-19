@@ -16,7 +16,6 @@
 <img src="https://komarev.com/ghpvc/?username=sumans-19&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
-
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
@@ -40,7 +39,7 @@ Status:     Open to Opportunities ✨
 
 - 🔭 Building **scalable systems** & **secure architectures**
 - 🛡️ Passionate about **Cybersecurity** & **Threat Detection**
-- 🏆 **AI/ML HackAIthon 2026 Winner** , **Infothon 2025 Champion** , **Hack-AI-thon Winners** & **Devops Hackathon Winner**
+- 🏆 **AI/ML HackAIthon 2026 Winner** , **Infothon 2025 Champion** , "Hack-AI-thon Winners" & "Devops Hackathon Winner"
 - 🌱 Mastering **Cloud Native** & **DevOps** pipelines
 - 📫 **sumanshanthakumar@gmail.com**
 
@@ -127,8 +126,8 @@ Status:     Open to Opportunities ✨
 
 </div>
 
-<!-- ANIMATED LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
 
@@ -139,9 +138,9 @@ Status:     Open to Opportunities ✨
 <a href="https://leetcode.com/sumans-19"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
 <a href="mailto:sumanshanthakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 
-<br><br>
-
-📍 **Mysuru, Karnataka, India** &nbsp;|&nbsp; 📞 **+91 7483907615** &nbsp;|&nbsp; ✉️ **sumanshanthakumar@gmail.com**
+<br>
+**Mysuru, Karnataka, India** &nbsp;|&nbsp; - **+91 7483907615** &nbsp;|&nbsp; - **sumanshanthakumar@gmail.com**
+<br>
 
 </div>
 
