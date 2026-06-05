@@ -139,7 +139,7 @@ Status:     Open to Opportunities
 <a href="mailto:sumanshanthakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 
 <br>
-**Mysuru, Karnataka, India** &nbsp;|&nbsp; - **+91 7483907615** &nbsp;|&nbsp; - **sumanshanthakumar@gmail.com**
+**Mysuru, Karnataka, India** &nbsp;|&nbsp; **+91 7483907615** &nbsp;|&nbsp; **sumanshanthakumar@gmail.com**
 <br>
 
 </div>
