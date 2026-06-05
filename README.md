@@ -1,164 +1,366 @@
 <div align="center">
 
-# SUMAN S
+<!-- ANIMATED HEADER BANNER -->
+<img src="./assets/profile_banner.png" width="100%" alt="Suman S - Full Stack Developer | Cybersecurity & System Design" />
 
-### Full Stack Developer | System Design Architect
+<!-- ANIMATED TYPING -->
+<br>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%26+System+Design+Enthusiast;%F0%9F%92%BB+Full+Stack+Developer+%7C+Cloud+Architect;%F0%9F%8F%86+Hackathon+Champion+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
+
+<br>
+
+<!-- SOCIAL BADGES -->
+<a href="https://linkedin.com/in/infosunman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&nbsp;
+<a href="https://github.com/sumans-19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://leetcode.com/sumans-19"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
+<a href="mailto:sumanshanthakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sumans-19&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115835892-4eff4800-a457-11eb-9c82-8aa4edde3073.gif" width="100%">
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
----
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+
+```yaml
+Name:       Suman S
+Location:   Mysuru, Karnataka, India 📍
+Education:  B.E. Computer Science (Ongoing)
+            VVCE, Mysuru | CGPA: 9.59 🎓
+Focus:      Cybersecurity & System Design 🛡️
+Role:       GDG-VVCE On-Campus Organizer 🚀
+Status:     Open to Opportunities ✨
+```
+
+- 🔭 &nbsp;Building **scalable systems** & **secure architectures**
+- 🛡️ &nbsp;Passionate about **Cybersecurity** & **Threat Detection**
+- 🏆 &nbsp;**AI/ML HackAIthon 2025 Winner** & **Infothon 2025 Champion**
+- 🛰️ &nbsp;**ISRO Hackathon** participant — Crater Detection on Moon
+- 💡 &nbsp;Solved **150+ LeetCode** problems in DSA
+- 🌱 &nbsp;Currently mastering **Cloud Native** & **DevOps** pipelines
+- 📫 &nbsp;Reach me at **sumanshanthakumar@gmail.com**
+
+<br clear="both">
+
+<!-- ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
 
-## About Me
+<table>
+<tr>
+<td align="center" width="50%">
 
-I'm a passionate **Full Stack Developer** and **System Design Architect** from Mysore, India, specializing in building scalable systems, cloud infrastructure, and innovative solutions.
+### 💻 Programming Languages
+<br>
 
-**Currently:** Building scalable applications | Mastering cloud technologies | Solving complex system design problems
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-</div>
+</td>
+<td align="center" width="50%">
 
----
+### 🎨 Frontend
+<br>
 
-## Technical Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript" />
-</div>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-### Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</div>
+### ⚙️ Backend & Databases
+<br>
 
-### Backend & Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Cloud & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" />
-</div>
+</td>
+<td align="center" width="50%">
 
-### Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</div>
+### ☁️ Cloud & DevOps
+<br>
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Achievements
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><b>🏆 AI/ML Hackathon</b><br>Winner 2025</td>
-    <td align="center" width="25%"><b>🎯 InfoThon</b><br>Winner 2025</td>
-    <td align="center" width="25%"><b>⚡ LeetCode</b><br>150+ Problems</td>
-    <td align="center" width="25%"><b>👥 GDG Lead</b><br>VVCE Community</td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><b>📊 CGPA</b><br>9.39 / 10.0</td>
-    <td align="center" width="25%"><b>🛰️ ISRO Project</b><br>Moon Detection</td>
-    <td align="center" width="25%"><b>🚀 Projects</b><br>10+ Deployed</td>
-    <td align="center" width="25%"><b>💼 Experience</b><br>Enterprise Solutions</td>
-  </tr>
+### 🖥️ Operating Systems & Tools
+<br>
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
 </table>
 
----
+</div>
 
-## What I Do
+<!-- ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**System Architecture** | Microservices | Scalable Cloud Solutions | Database Optimization | API Design
+<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
 
-**Full-Stack Development** | Web Applications | Mobile Development | Real-time Systems | Performance Optimization
+## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="28"> &nbsp;Achievements & Highlights
 
-**Cloud & DevOps** | Docker | Kubernetes | CI/CD Automation | Infrastructure as Code
+<div align="center">
 
-**AI/ML Integration** | Machine Learning | LLM Integration | Computer Vision | Data Analysis
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏆-gold?style=for-the-badge" /><br>
+<b>AI/ML HackAIthon</b><br>
+<sub>🥇 Winner 2025</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎯-blue?style=for-the-badge" /><br>
+<b>Infothon 2025</b><br>
+<sub>🥇 Champion</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚡-purple?style=for-the-badge" /><br>
+<b>DevOps Hackathon</b><br>
+<sub>🏅 Victory</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🛰️-darkblue?style=for-the-badge" /><br>
+<b>ISRO Hackathon</b><br>
+<sub>🌕 Crater Detection</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💻-orange?style=for-the-badge" /><br>
+<b>LeetCode</b><br>
+<sub>⚡ 150+ Problems Solved</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎓-green?style=for-the-badge" /><br>
+<b>CGPA</b><br>
+<sub>📊 9.59 / 10.0</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/👥-red?style=for-the-badge" /><br>
+<b>GDG-VVCE Lead</b><br>
+<sub>🚀 On-Campus Organizer</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📦-teal?style=for-the-badge" /><br>
+<b>Projects</b><br>
+<sub>🔥 10+ Deployed</sub>
+</td>
+</tr>
+</table>
 
-**Cybersecurity** | Secure Coding | Threat Detection | System Hardening
+</div>
 
----
+<!-- ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## GitHub Analytics
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumans-19&show_icons=true&theme=dark&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sumans-19&theme=dark&hide_border=true&stroke=00D9FF&ring=FF00FF&fire=FF6B35&currStreakNum=00D9FF&sideNums=00D9FF&background=0D1117" />
-</p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Featured Projects
 
----
+<div align="center">
 
-## Featured Projects
+<a href="https://github.com/sumans-19">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sumans-19&repo=sumans-19&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9" />
+</a>
 
-| Project | Description |
-|:---|:---|
-| **ERP System** | Enterprise resource planning platform for Ethics Connect Ltd |
-| **Travel Platform** | Scalable web application for Venti Company |
-| **Moon Detection** | ISRO YOLO crater detection on lunar surface |
-| **LeetCode Portfolio** | 150+ DSA problems with optimized solutions |
-| **GDG Community** | Leading 500+ members at VVCE |
+</div>
 
----
+<br>
 
-## Professional Experience
+<div align="center">
 
-**Software Development Consultant**
-- Multiple enterprise-level projects
-- Full-stack development with focus on scalability
-- Technical architecture and optimization
-- Requirements analysis and quality assurance
+| 🚀 Project | 📋 Description | 🛠️ Tech Stack |
+|:---:|:---|:---:|
+| **🖥️ ZeroSetup OS** | Generating temporary laboratory containers for instant dev environments | `Docker` `Linux` `Cloud` |
+| **📚 PrepFlash** | AI-powered interview preparation platform with flashcards & questions | `React` `Node.js` `AI/LLM` |
+| **⚡ Electricity Billing** | Paid enterprise billing system with automated meter reading | `Java` `MySQL` `Spring` |
+| **🏰 Labyrinth Forge** | Dynamic threat simulation platform for cybersecurity training | `Python` `Flask` `Security` |
+| **👻 Ghost OS** | Stealth operating system with advanced threat detection capabilities | `C` `Linux` `Kernel` |
+| **🤖 AI-LLM** | Custom large language model integration for intelligent applications | `Python` `ML` `NLP` |
+| **🛰️ ISRO Crater Detection** | YOLO-based crater detection on lunar surface imagery | `Python` `YOLO` `CV` |
 
----
+</div>
 
-## Connect With Me
+<!-- ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <a href="https://linkedin.com/in/sumans-19" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sumans-19" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/sumans-19" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="mailto:sumanshanthakumar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
-<p align="center">
-  📍 <strong>Mysore, India</strong> | 📞 <strong>+91 7483907615</strong><br>
-  ✉️ <strong>sumanshanthakumar@gmail.com</strong>
-</p>
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
----
+<div align="center">
 
-## Available For
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumans-19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sumans-19&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FF9E64&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=FF6B6B&dates=C9D1D9" />
 
-- Collaborations on innovative tech projects
-- Full-time / Part-time opportunities
-- Technical mentoring & consulting
-- Open-source contributions
-- Freelance projects
+<br>
 
----
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumans-19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumans-19&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+</div>
 
-<p align="center">
-  <strong>Last Updated:</strong> June 2025 | <strong>Status:</strong> Open to Opportunities ✨
-</p>
+<br>
 
-<p align="center">
-  <em>"Building scalable systems that solve real-world problems."</em>
-</p>
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  
+[![Suman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumans-19&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF)](https://github.com/sumans-19)
+
+</div>
+
+<!-- ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ WHAT I DO ═══════════════════════ -->
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;What I Do
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   🛡️  CYBERSECURITY        →  Secure Coding · Threat Detection       ║
+║                                System Hardening · Penetration Testing ║
+║                                                                      ║
+║   🏗️  SYSTEM ARCHITECTURE  →  Microservices · Scalable Solutions     ║
+║                                Database Optimization · API Design     ║
+║                                                                      ║
+║   💻  FULL-STACK DEV       →  Web Apps · Mobile Dev · Real-time      ║
+║                                Systems · Performance Optimization     ║
+║                                                                      ║
+║   ☁️  CLOUD & DEVOPS       →  Docker · Kubernetes · CI/CD           ║
+║                                Infrastructure as Code · Jenkins       ║
+║                                                                      ║
+║   🤖  AI/ML INTEGRATION   →  Machine Learning · LLM Integration     ║
+║                                Computer Vision · Data Analysis        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
+
+## 💼 &nbsp;Professional Experience
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  🏢  Software Development Consultant                    │
+│  ├── 📌 Multiple enterprise-level projects              │
+│  ├── 🔧 Full-stack development (scalability focus)      │
+│  ├── 📐 Technical architecture & optimization           │
+│  └── ✅ Requirements analysis & quality assurance       │
+│                                                         │
+│  🎓  GDG-VVCE On-Campus Organizer & Lead               │
+│  ├── 👥 Leading 500+ community members                  │
+│  ├── 🎤 Organizing tech talks & workshops               │
+│  └── 🌐 Building developer ecosystem at VVCE            │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<!-- ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/infosunman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://github.com/sumans-19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/sumans-19"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
+<a href="mailto:sumanshanthakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+
+<br><br>
+
+📍 **Mysuru, Karnataka, India** &nbsp;|&nbsp; 📞 **+91 7483907615** &nbsp;|&nbsp; ✉️ **sumanshanthakumar@gmail.com**
+
+<br>
+
+### 🤝 Open For
+
+`🏢 Full-time Opportunities` &nbsp; `🤝 Collaborations` &nbsp; `💡 Technical Consulting` &nbsp; `📖 Mentoring` &nbsp; `🌐 Open Source` &nbsp; `💼 Freelance`
+
+</div>
+
+<!-- ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
+<div align="center">
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
+
+<br><br>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br><br>
+
+**Last Updated:** June 2026 &nbsp;|&nbsp; **Status:** Open to Opportunities ✨
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
+
+</div>
