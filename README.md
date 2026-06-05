@@ -1,10 +1,9 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="./assets/profile_banner.png" width="100%" alt="Suman S - Full Stack Developer | Cybersecurity & System Design" />
+<!-- CAPSULE RENDER HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SUMAN%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20%26%20System%20Design&descSize=16&descAlignY=52&descColor=00D9FF" width="100%" />
 
 <!-- ANIMATED TYPING - single line, compact -->
-<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Cybersecurity+%26+System+Design+Enthusiast;Full+Stack+Developer+%7C+Cloud+Architect;Hackathon+Champion+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
 
@@ -21,9 +20,6 @@
 <img src="https://komarev.com/ghpvc/?username=sumans-19&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
-
-<!-- ANIMATED WAVE SEPARATOR -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
