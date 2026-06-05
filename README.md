@@ -26,12 +26,12 @@
 
 ```yaml
 Name:       Suman S
-Location:   Mysuru, Karnataka, India 📍
+Location:   Mysuru, Karnataka, India 
 Education:  B.E. Computer Science (Ongoing)
-            VVCE, Mysuru | CGPA: 9.59 🎓
-Focus:      Cybersecurity & System Design 🛡️
-Role:       GDG-VVCE On-Campus Organizer 🚀
-Status:     Open to Opportunities ✨
+            VVCE, Mysuru | CGPA: 9.59 
+Focus:      Cybersecurity & System Design 
+Role:       GDG-VVCE On-Campus Organizer 
+Status:     Open to Opportunities 
 ```
 
 </td>
