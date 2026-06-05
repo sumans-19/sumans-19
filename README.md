@@ -3,10 +3,10 @@
 <!-- ANIMATED HEADER BANNER -->
 <img src="./assets/profile_banner.png" width="100%" alt="Suman S - Full Stack Developer | Cybersecurity & System Design" />
 
-<!-- ANIMATED TYPING -->
+<!-- ANIMATED TYPING - single line, compact -->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%26+System+Design+Enthusiast;%F0%9F%92%BB+Full+Stack+Developer+%7C+Cloud+Architect;%F0%9F%8F%86+Hackathon+Champion+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Cybersecurity+%26+System+Design+Enthusiast;Full+Stack+Developer+%7C+Cloud+Architect;Hackathon+Champion+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
 
 <br>
 
@@ -29,7 +29,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+<table>
+<tr>
+<td width="55%">
 
 ```yaml
 Name:       Suman S
@@ -41,15 +43,20 @@ Role:       GDG-VVCE On-Campus Organizer 🚀
 Status:     Open to Opportunities ✨
 ```
 
-- 🔭 &nbsp;Building **scalable systems** & **secure architectures**
-- 🛡️ &nbsp;Passionate about **Cybersecurity** & **Threat Detection**
-- 🏆 &nbsp;**AI/ML HackAIthon 2025 Winner** & **Infothon 2025 Champion**
-- 🛰️ &nbsp;**ISRO Hackathon** participant — Crater Detection on Moon
-- 💡 &nbsp;Solved **150+ LeetCode** problems in DSA
-- 🌱 &nbsp;Currently mastering **Cloud Native** & **DevOps** pipelines
-- 📫 &nbsp;Reach me at **sumanshanthakumar@gmail.com**
+</td>
+<td width="45%">
 
-<br clear="both">
+- 🔭 Building **scalable systems** & **secure architectures**
+- 🛡️ Passionate about **Cybersecurity** & **Threat Detection**
+- 🏆 **AI/ML HackAIthon 2025 Winner** & **Infothon 2025 Champion**
+- 🛰️ **ISRO Hackathon** — Crater Detection on Moon
+- 💡 Solved **150+ LeetCode** problems in DSA
+- 🌱 Mastering **Cloud Native** & **DevOps** pipelines
+- 📫 **sumanshanthakumar@gmail.com**
+
+</td>
+</tr>
+</table>
 
 <!-- ANIMATED LINE -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -138,95 +145,6 @@ Status:     Open to Opportunities ✨
 <!-- ANIMATED LINE -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
-
-## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="28"> &nbsp;Achievements & Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏆-gold?style=for-the-badge" /><br>
-<b>AI/ML HackAIthon</b><br>
-<sub>🥇 Winner 2025</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯-blue?style=for-the-badge" /><br>
-<b>Infothon 2025</b><br>
-<sub>🥇 Champion</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚡-purple?style=for-the-badge" /><br>
-<b>DevOps Hackathon</b><br>
-<sub>🏅 Victory</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🛰️-darkblue?style=for-the-badge" /><br>
-<b>ISRO Hackathon</b><br>
-<sub>🌕 Crater Detection</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💻-orange?style=for-the-badge" /><br>
-<b>LeetCode</b><br>
-<sub>⚡ 150+ Problems Solved</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎓-green?style=for-the-badge" /><br>
-<b>CGPA</b><br>
-<sub>📊 9.59 / 10.0</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/👥-red?style=for-the-badge" /><br>
-<b>GDG-VVCE Lead</b><br>
-<sub>🚀 On-Campus Organizer</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📦-teal?style=for-the-badge" /><br>
-<b>Projects</b><br>
-<sub>🔥 10+ Deployed</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- ANIMATED LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/sumans-19">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sumans-19&repo=sumans-19&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=C9D1D9" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-| 🚀 Project | 📋 Description | 🛠️ Tech Stack |
-|:---:|:---|:---:|
-| **🖥️ ZeroSetup OS** | Generating temporary laboratory containers for instant dev environments | `Docker` `Linux` `Cloud` |
-| **📚 PrepFlash** | AI-powered interview preparation platform with flashcards & questions | `React` `Node.js` `AI/LLM` |
-| **⚡ Electricity Billing** | Paid enterprise billing system with automated meter reading | `Java` `MySQL` `Spring` |
-| **🏰 Labyrinth Forge** | Dynamic threat simulation platform for cybersecurity training | `Python` `Flask` `Security` |
-| **👻 Ghost OS** | Stealth operating system with advanced threat detection capabilities | `C` `Linux` `Kernel` |
-| **🤖 AI-LLM** | Custom large language model integration for intelligent applications | `Python` `ML` `NLP` |
-| **🛰️ ISRO Crater Detection** | YOLO-based crater detection on lunar surface imagery | `Python` `YOLO` `CV` |
-
-</div>
-
-<!-- ANIMATED LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> &nbsp;GitHub Analytics
@@ -239,73 +157,6 @@ Status:     Open to Opportunities ✨
 <br>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumans-19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
-<br>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  
-[![Suman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumans-19&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF)](https://github.com/sumans-19)
-
-</div>
-
-<!-- ANIMATED LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ WHAT I DO ═══════════════════════ -->
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;What I Do
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   🛡️  CYBERSECURITY        →  Secure Coding · Threat Detection       ║
-║                                System Hardening · Penetration Testing ║
-║                                                                      ║
-║   🏗️  SYSTEM ARCHITECTURE  →  Microservices · Scalable Solutions     ║
-║                                Database Optimization · API Design     ║
-║                                                                      ║
-║   💻  FULL-STACK DEV       →  Web Apps · Mobile Dev · Real-time      ║
-║                                Systems · Performance Optimization     ║
-║                                                                      ║
-║   ☁️  CLOUD & DEVOPS       →  Docker · Kubernetes · CI/CD           ║
-║                                Infrastructure as Code · Jenkins       ║
-║                                                                      ║
-║   🤖  AI/ML INTEGRATION   →  Machine Learning · LLM Integration     ║
-║                                Computer Vision · Data Analysis        ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- ANIMATED LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
-
-## 💼 &nbsp;Professional Experience
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  🏢  Software Development Consultant                    │
-│  ├── 📌 Multiple enterprise-level projects              │
-│  ├── 🔧 Full-stack development (scalability focus)      │
-│  ├── 📐 Technical architecture & optimization           │
-│  └── ✅ Requirements analysis & quality assurance       │
-│                                                         │
-│  🎓  GDG-VVCE On-Campus Organizer & Lead               │
-│  ├── 👥 Leading 500+ community members                  │
-│  ├── 🎤 Organizing tech talks & workshops               │
-│  └── 🌐 Building developer ecosystem at VVCE            │
-└─────────────────────────────────────────────────────────┘
-```
 
 </div>
 
