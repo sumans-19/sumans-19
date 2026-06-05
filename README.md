@@ -36,13 +36,13 @@ Status:     Open to Opportunities
 
 </td>
 <td width="45%">
-
-- 🔭 Building **scalable systems** & **secure architectures**
-- 🛡️ Passionate about **Cybersecurity** & **Threat Detection**
-- 🏆 **AI/ML HackAIthon 2026 Winner** , **Infothon 2025 Champion** , "Hack-AI-thon Winners" & "Devops Hackathon Winner"
-- 🌱 Mastering **Cloud Native** & **DevOps** pipelines
-- 📫 **sumanshanthakumar@gmail.com**
-
+```yaml
+            - 🔭 Building **scalable systems** & **secure architectures**
+            - 🛡️ Passionate about **Cybersecurity** & **Threat Detection**
+            - 🏆 **AI/ML HackAIthon 2026 Winner** , **Infothon 2025 Champion** , **Hack-AI-thon Winners** & **Devops Hackathon Winner**
+            - 🌱 Mastering **Cloud Native** & **DevOps** pipelines
+            - 📫 **sumanshanthakumar@gmail.com**
+```
 </td>
 </tr>
 </table>
