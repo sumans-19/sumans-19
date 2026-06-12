@@ -114,19 +114,6 @@ Contact:     "sumanshanthakumar@gmail.com"
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
-
-### 🖥️ Operating Systems & Tools
-<br>
-
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</td>
 </tr>
 </table>
 
@@ -145,7 +132,7 @@ Contact:     "sumanshanthakumar@gmail.com"
 <a href="mailto:sumanshanthakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 
 <br>
-**Mysuru, Karnataka, India** &nbsp;|&nbsp; **+91 7483907615** &nbsp;|&nbsp; **sumanshanthakumar@gmail.com**
+Mysuru, Karnataka, India &nbsp;|&nbsp; +91 7483907615 &nbsp;|&nbsp; sumanshanthakumar@gmail.com
 <br>
 
 </div>
