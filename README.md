@@ -1,7 +1,7 @@
 <!-- ANIMATED TYPING - single line, compact -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Cybersecurity+%26+System+Design+Enthusiast;Full+Stack+Developer+%7C+Cloud+Architect;Suman+%26S)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Cybersecurity+%26+System+Design+Enthusiast;Full+Stack+Developer+%7C+Cloud+Architect;Suman+S)](https://git.io/typing-svg)
 
 <br>
 
