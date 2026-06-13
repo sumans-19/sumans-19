@@ -28,7 +28,7 @@
 <br/>
 
 <!-- TERMINAL ANIMATION HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+Suman+S;%24+focus+%E2%86%92+Cybersecurity+&+Cloud;%24+status+%E2%86%92+Building+Systems" alt="Terminal Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+Suman+S;%24+focus+%E2%86%92+Cybersecurity+Cloud;%24+status+%E2%86%92+Building+Systems" alt="Terminal Animation" />
 
 <br/>
 
