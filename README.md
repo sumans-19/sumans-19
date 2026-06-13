@@ -43,10 +43,6 @@
 <img src="https://img.shields.io/badge/GITHUB-10B981?style=flat-square&logo=github&logoColor=000000&labelColor=10B981&label=%20&logoWidth=20" alt="GitHub" />
 </a>
 
-<a href="https://leetcode.com/sumans-19" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/LEETCODE-10B981?style=flat-square&logo=leetcode&logoColor=000000&labelColor=10B981&label=%20&logoWidth=20" alt="LeetCode" />
-</a>
-
 <a href="mailto:sumanshanthakumar@gmail.com" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/GMAIL-10B981?style=flat-square&logo=gmail&logoColor=000000&labelColor=10B981&label=%20&logoWidth=20" alt="Gmail" />
 </a>
@@ -108,7 +104,7 @@
 </table>
 ---
 
-## `[📦] Tech Stack`
+## `[..] Tech Stack`
 
 <div align="center">
 
@@ -162,7 +158,7 @@
 
 ---
 
-## `[📊] Analytics`
+## `[..] Analytics`
 
 <div align="center">
 
@@ -200,7 +196,7 @@
 
 <br/>
 
-## `[💬] Get in Touch`
+## `[..] Get in Touch`
 
 <div style="margin: 30px 0; letter-spacing: 0.5px;">
 
@@ -212,7 +208,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/infosunman)
 [![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/sumans-19)
-[![LeetCode](https://img.shields.io/badge/LeetCode-10B981?style=for-the-badge&logo=leetcode&logoColor=000000)](https://leetcode.com/sumans-19)
 [![Gmail](https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:sumanshanthakumar@gmail.com)
 
 </div>
