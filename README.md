@@ -69,7 +69,6 @@
 
 ---
 
-## `system_profile.conf`
 ## <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ system_profile.conf</span>
 <table>
 <tr>
@@ -104,7 +103,7 @@
 
 ---
 
-## `[..] Tech Stack`
+## <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ Tech_Stack</span>
 
 <div align="center">
 
@@ -158,7 +157,7 @@
 
 ---
 
-## `[..] Analytics`
+## <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ Analytics</span>
 
 <div align="center">
 
@@ -196,7 +195,7 @@
 
 <br/>
 
-## `[..] Get in Touch`
+## <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ Get_In_Touch</span>
 
 <div style="margin: 30px 0; letter-spacing: 0.5px;">
 
