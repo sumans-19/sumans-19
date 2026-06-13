@@ -35,8 +35,8 @@
 <!-- ENHANCED INTERACTIVE BADGES -->
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
   
-<a href="https://www.linkedin.com/in/suman-s-548774292/" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/LINKEDIN-10B981?style=flat-square&logo=linkedin&logoColor=000000&labelColor=10B981&label=%20&logoWidth=20" alt="LinkedIn" />
+<a href="https://linkedin.com/in/infosunman" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/LINKEDIN-10B981?style=flat-square&logo=linkedin&logoColor=000000&labelColor=10B981&label=%20&logoWidth=20&link=https://linkedin.com/in/infosunman" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/sumans-19" style="text-decoration: none;">
@@ -87,11 +87,12 @@
 <td width="50%" valign="top">
 
 ### Recognition
-◈  AI/ML HackAIthon 2026 .......... Winner
 
-◈  Infothon 2025 .................. Champion
-
-◈  DevOps Hackathon ............... Winner
+```
+ ◈  AI/ML HackAIthon 2026 .......... Winner
+ ◈  Infothon 2025 .................. Champion  
+ ◈  DevOps Hackathon ............... Winner
+```
 
 **Interests**
 - Scalable systems & secure architectures  
@@ -101,7 +102,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 ## `[..] Tech Stack`
@@ -168,7 +168,7 @@
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=sumans-19&theme=transparent&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&border=10B981&dates=10B981" alt="Streak Stats" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sumans-19&theme=transparent&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&border=10B981&dates=10B981" alt="Streak Stats" />
 
 </div>
 
@@ -206,7 +206,7 @@
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/suman-s-548774292/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/infosunman)
 [![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/sumans-19)
 [![Gmail](https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:sumanshanthakumar@gmail.com)
 
