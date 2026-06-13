@@ -68,13 +68,14 @@
 </div>
 
 ---
-![About](https://img.shields.io/badge/%24_About-10B981?style=flat-square&logoColor=white&labelColor=000000)
-## <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ system_profile.conf</span>
+
+![system_profile.conf](https://img.shields.io/badge/%24_system__profile.conf-10B981?style=flat-square&logoColor=000000&labelColor=000000&color=10B981)
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ About</span>
+![About](https://img.shields.io/badge/%24_About-10B981?style=flat-square&logoColor=000000&labelColor=000000&color=10B981)
 
 > Computer Science undergraduate at VVCE, Mysuru — building at the intersection of security and scalable systems. Focused on threat detection, cloud-native pipelines, and resilient architectures.
 
@@ -86,7 +87,7 @@
 </td>
 <td width="50%" valign="top">
 
-### <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ Recognition</span>
+![Recognition](https://img.shields.io/badge/%24_Recognition-10B981?style=flat-square&logoColor=000000&labelColor=000000&color=10B981)
 
 >  **AI/ML HackAIthon 2026** — Winner  
 >  **Infothon 2025** — Champion  
@@ -103,7 +104,7 @@
 
 ---
 
-## <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ Tech_Stack</span>
+![Tech Stack](https://img.shields.io/badge/%24_Tech__Stack-10B981?style=flat-square&logoColor=000000&labelColor=000000&color=10B981)
 
 <div align="center">
 
@@ -157,7 +158,7 @@
 
 ---
 
-## <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ Analytics</span>
+![Analytics](https://img.shields.io/badge/%24_Analytics-10B981?style=flat-square&logoColor=000000&labelColor=000000&color=10B981)
 
 <div align="center">
 
@@ -195,7 +196,7 @@
 
 <br/>
 
-## <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ Get_In_Touch</span>
+![Get In Touch](https://img.shields.io/badge/%24_Get__In__Touch-10B981?style=flat-square&logoColor=000000&labelColor=000000&color=10B981)
 
 <div style="margin: 30px 0; letter-spacing: 0.5px;">
 
