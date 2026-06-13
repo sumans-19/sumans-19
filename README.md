@@ -1,3 +1,98 @@
+<div align="center">
+
+<!-- ANIMATED SVG HEADER BORDER -->
+<svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" style="background: linear-gradient(90deg, rgba(16,185,129,0.05) 0%, rgba(16,185,129,0.1) 50%, rgba(16,185,129,0.05) 100%);">
+  <defs>
+    <linearGradient id="emeraldGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:0.3" />
+      <stop offset="50%" style="stop-color:#10B981;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#10B981;stop-opacity:0.3" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <path d="M 0,30 Q 300,10 600,30 T 1200,30" stroke="url(#emeraldGlow)" stroke-width="2" fill="none" filter="url(#glow)" stroke-linecap="round"/>
+  <circle cx="100" cy="30" r="3" fill="#10B981" filter="url(#glow)">
+    <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1100" cy="30" r="3" fill="#10B981" filter="url(#glow)">
+    <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+
+<br/>
+
+<!-- TERMINAL ANIMATION HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+Suman+S;%24+focus+%E2%86%92+Cybersecurity;%24+status+%E2%86%92+Building+Systems" alt="Terminal Animation" />
+
+<br/>
+
+<!-- ENHANCED INTERACTIVE BADGES -->
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
+  
+<a href="https://www.linkedin.com/in/suman-s-548774292/" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/LINKEDIN-10B981?style=flat-square&logo=linkedin&logoColor=000000&labelColor=10B981&label=%20&logoWidth=20" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/sumans-19" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/GITHUB-10B981?style=flat-square&logo=github&logoColor=000000&labelColor=10B981&label=%20&logoWidth=20" alt="GitHub" />
+</a>
+
+<a href="mailto:sumanshanthakumar@gmail.com" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/GMAIL-10B981?style=flat-square&logo=gmail&logoColor=000000&labelColor=10B981&label=%20&logoWidth=20" alt="Gmail" />
+</a>
+
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumans-19&color=10B981&style=flat-square&label=PROFILE+VIEWS)
+
+<br/>
+
+<!-- ANIMATED SVG DIVIDER -->
+<svg width="80%" height="2" viewBox="0 0 800 2" xmlns="http://www.w3.org/2000/svg" style="margin: 20px auto; display: block;">
+  <defs>
+    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#10B981;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="1" x2="800" y2="1" stroke="url(#lineGradient)" stroke-width="2"/>
+</svg>
+
+</div>
+
+---
+
+## `system_profile.conf`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### About
+
+> Computer Science undergraduate at VVCE, Mysuru — building at the intersection of security and scalable systems. Focused on threat detection, cloud-native pipelines, and resilient architectures.
+
+**Location** &nbsp;&nbsp; Mysuru, Karnataka, India  
+**Education** &nbsp; B.E. CSE @ VVCE · CGPA 9.59  
+**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GDG-VVCE On-Campus Organizer  
+**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Open to Opportunities`
+
+</td>
+<td width="50%" valign="top">
+
+### Recognition
+◈  AI/ML HackAIthon 2026 .......... Winner
+
+◈  Infothon 2025 .................. Champion
+
+◈  DevOps Hackathon ............... Winner
+
 **Interests**
 - Scalable systems & secure architectures  
 - Cybersecurity & threat detection  
