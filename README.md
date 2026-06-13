@@ -1,154 +1,122 @@
-<!-- ANIMATED TYPING - single line, compact -->
 <div align="center">
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=009D9EF7FF&width=435&lines=Hi+Fellow+Developers+!!;I'm+Suman+S;" />
-</h1>
-<br>
 
-<!-- SOCIAL BADGES -->
-<a href="https://linkedin.com/in/infosunman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>&nbsp;
-<a href="https://github.com/sumans-19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://leetcode.com/sumans-19"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;
-<a href="mailto:sumanshanthakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<br>
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+Suman+S;%24+focus+%E2%86%92+Cybersecurity+%26+Systems;%24+status+%E2%86%92+Open+to+Opportunities" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=sumans-19&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<br/>
+
+<!-- BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300D9FF.svg?style=flat-square&logo=linkedin&logoColor=0A0A0A&labelColor=00D9FF)](https://linkedin.com/in/infosunman)
+[![GitHub](https://img.shields.io/badge/GitHub-%2300D9FF.svg?style=flat-square&logo=github&logoColor=0A0A0A&labelColor=00D9FF)](https://github.com/sumans-19)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2300D9FF.svg?style=flat-square&logo=leetcode&logoColor=0A0A0A&labelColor=00D9FF)](https://leetcode.com/sumans-19)
+[![Gmail](https://img.shields.io/badge/Gmail-%2300D9FF.svg?style=flat-square&logo=gmail&logoColor=0A0A0A&labelColor=00D9FF)](mailto:sumanshanthakumar@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumans-19&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
-<div align="center">
-<table>
-<tr>
-<td width="60%">
+---
 
-```yaml
-Name:       Suman S
-Location:   Mysuru, Karnataka, India 
-Education:  B.E. Computer Science (Ongoing)
-            VVCE, Mysuru | CGPA: 9.59 
-Focus:      Cybersecurity & System Design 
-Role:       GDG-VVCE On-Campus Organizer 
-Status:     Open to Opportunities 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                      SYSTEM PROFILE                          ║
+╠══════════════════════════════════════════════════════════════╣
+║  operator    : Suman S                                       ║
+║  location    : Mysuru, Karnataka, India                      ║
+║  education   : B.E. Computer Science @ VVCE  [CGPA: 9.59]  ║
+║  focus       : Cybersecurity · System Design                 ║
+║  role        : GDG-VVCE On-Campus Organizer                 ║
+║  status      : [ OPEN TO OPPORTUNITIES ]                     ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-<td width="65%">
-            
-```yaml
-Interests:
-  - "Building scalable systems & secure architectures"
-  - "Passionate about Cybersecurity & Threat Detection"
-  - "Mastering Cloud Native & DevOps pipelines"
-Achievements:
-  - "AI/ML HackAIthon 2026 Winner"
-  - "Infothon 2025 Champion"
-  - "Devops Hackathon Winner"
-Contact:     "sumanshanthakumar@gmail.com"
 ```
-            
-</td>
-</tr>
-</table>
-</div>
-<!-- ANIMATED LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+╔══════════════════════════════════════════════════════════════╗
+║                      MISSION BRIEF                           ║
+╠══════════════════════════════════════════════════════════════╣
+║  > Building scalable systems & secure architectures          ║
+║  > Passionate about Cybersecurity & Threat Detection         ║
+║  > Mastering Cloud Native & DevOps pipelines                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  ACHIEVEMENTS                                                ║
+║  [★] AI/ML HackAIthon 2026 ............... WINNER            ║
+║  [★] Infothon 2025 ........................ CHAMPION         ║
+║  [★] DevOps Hackathon ..................... WINNER           ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+---
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
-
-<div align="center">
-
-<table scroll="none">
-<tr>
-<td align="center" width="50%" >
-
-### 💻 Programming Languages
-<br>
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</td>
-<td align="center" width="50%">
-
-### 🎨 Frontend
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### ⚙️ Backend & Databases
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</td>
-<td align="center" width="50%">
-
-### ☁️ Cloud & DevOps
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-</tr>
-<tr>
-</tr>
-</table>
-
-</div>
-
-
-
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
+## `~/tech-stack`
 
 <div align="center">
 
-<a href="https://linkedin.com/in/infosunman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://github.com/sumans-19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/sumans-19"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>&nbsp;&nbsp;
-<a href="mailto:sumanshanthakumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+**— LANGUAGES —**
 
-<br>
-Mysuru, Karnataka, India &nbsp;|&nbsp; +91 7483907615 &nbsp;|&nbsp; sumanshanthakumar@gmail.com
-<br>
+![C](https://img.shields.io/badge/C-00D9FF?style=flat-square&logo=c&logoColor=0A0A0A)
+![Java](https://img.shields.io/badge/Java-00D9FF?style=flat-square&logo=openjdk&logoColor=0A0A0A)
+![Python](https://img.shields.io/badge/Python-00D9FF?style=flat-square&logo=python&logoColor=0A0A0A)
+![JavaScript](https://img.shields.io/badge/JavaScript-00D9FF?style=flat-square&logo=javascript&logoColor=0A0A0A)
+
+**— FRONTEND —**
+
+![React](https://img.shields.io/badge/React-00D9FF?style=flat-square&logo=react&logoColor=0A0A0A)
+![Next.js](https://img.shields.io/badge/Next.js-00D9FF?style=flat-square&logo=nextdotjs&logoColor=0A0A0A)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00D9FF?style=flat-square&logo=tailwindcss&logoColor=0A0A0A)
+
+**— BACKEND & DATABASE —**
+
+![Node.js](https://img.shields.io/badge/Node.js-00D9FF?style=flat-square&logo=nodedotjs&logoColor=0A0A0A)
+![Express](https://img.shields.io/badge/Express-00D9FF?style=flat-square&logo=express&logoColor=0A0A0A)
+![Flask](https://img.shields.io/badge/Flask-00D9FF?style=flat-square&logo=flask&logoColor=0A0A0A)
+![MongoDB](https://img.shields.io/badge/MongoDB-00D9FF?style=flat-square&logo=mongodb&logoColor=0A0A0A)
+![MySQL](https://img.shields.io/badge/MySQL-00D9FF?style=flat-square&logo=mysql&logoColor=0A0A0A)
+![Firebase](https://img.shields.io/badge/Firebase-00D9FF?style=flat-square&logo=firebase&logoColor=0A0A0A)
+
+**— CLOUD & DEVOPS —**
+
+![Docker](https://img.shields.io/badge/Docker-00D9FF?style=flat-square&logo=docker&logoColor=0A0A0A)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-00D9FF?style=flat-square&logo=kubernetes&logoColor=0A0A0A)
+![AWS](https://img.shields.io/badge/AWS-00D9FF?style=flat-square&logo=amazonwebservices&logoColor=0A0A0A)
+![Linux](https://img.shields.io/badge/Linux-00D9FF?style=flat-square&logo=linux&logoColor=0A0A0A)
+![Git](https://img.shields.io/badge/Git-00D9FF?style=flat-square&logo=git&logoColor=0A0A0A)
 
 </div>
 
-<!-- ANIMATED LINE -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+## `~/github-stats`
 
 <div align="center">
 
-<!-- SNAKE ANIMATION -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumans-19&show_icons=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&ring_color=00D9FF&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumans-19&layout=compact&theme=transparent&title_color=00D9FF&text_color=00D9FF&border_color=00D9FF&hide_border=false" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sumans-19&theme=transparent&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=00D9FF&border=00D9FF" />
+
+</div>
+
+---
+
+```
+╔═══════════════════════════════════════╗
+║         TRANSMISSION OPEN            ║
+╠═══════════════════════════════════════╣
+║  mail  : sumanshanthakumar@gmail.com  ║
+║  node  : Mysuru, Karnataka, India     ║
+║  phone : +91 7483907615              ║
+╚═══════════════════════════════════════╝
+```
+
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer" width="100%"/>
 </div>
