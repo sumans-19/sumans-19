@@ -1,7 +1,7 @@
 <!-- ANIMATED TYPING - single line, compact -->
 <div align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=009D9EF7FF&width=435&lines=Hi+Coders+!!;I'm+Suman+S;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=009D9EF7FF&width=435&lines=Hi+Fellow+Developers+!!;I'm+Suman+S;" />
 </h1>
 <br>
 
