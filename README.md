@@ -75,11 +75,9 @@
 
 ## `system_profile.conf`
 
-<div align="center">
-
-<table style="width: 90%; max-width: 900px; margin: 0 auto; border-collapse: collapse;">
+<table style="width: 100%;">
 <tr>
-<td width="50%" valign="top" style="padding: 20px; border: 1px solid rgba(16,185,129,0.3); background: rgba(16,185,129,0.05);">
+<td width="50%" valign="top">
 
 ```yaml
 operator:
@@ -92,7 +90,7 @@ operator:
 ```
 
 </td>
-<td width="50%" valign="top" style="padding: 20px; border: 1px solid rgba(16,185,129,0.3); border-left: none; background: rgba(16,185,129,0.05);">
+<td width="50%" valign="top">
 
 ```yaml
 mission:
@@ -110,17 +108,15 @@ achievements:
 </tr>
 </table>
 
-</div>
-
 ---
 
 ## `[📦] Tech Stack`
 
 <div align="center">
 
-<table style="width: 90%; max-width: 1000px; margin: 20px auto; border-collapse: collapse;">
+<table style="border-collapse: collapse; margin: 20px 0;">
 <tr style="border-bottom: 1px solid rgba(16,185,129,0.2);">
-<td align="center" width="25%" style="padding: 20px; border-right: 1px solid rgba(16,185,129,0.2);">
+<td align="center" width="25%" style="padding: 15px;">
 
 **Languages**
 
@@ -130,7 +126,7 @@ achievements:
 ![JS](https://img.shields.io/badge/JavaScript-10B981?style=flat-square&logo=javascript&logoColor=000000)
 
 </td>
-<td align="center" width="25%" style="padding: 20px; border-right: 1px solid rgba(16,185,129,0.2);">
+<td align="center" width="25%" style="padding: 15px; border-left: 1px solid rgba(16,185,129,0.2);">
 
 **Frontend**
 
@@ -139,7 +135,7 @@ achievements:
 ![Tailwind](https://img.shields.io/badge/Tailwind-10B981?style=flat-square&logo=tailwindcss&logoColor=000000)
 
 </td>
-<td align="center" width="25%" style="padding: 20px; border-right: 1px solid rgba(16,185,129,0.2);">
+<td align="center" width="25%" style="padding: 15px; border-left: 1px solid rgba(16,185,129,0.2);">
 
 **Backend & DB**
 
@@ -150,7 +146,7 @@ achievements:
 ![MySQL](https://img.shields.io/badge/MySQL-10B981?style=flat-square&logo=mysql&logoColor=000000)
 
 </td>
-<td align="center" width="25%" style="padding: 20px;">
+<td align="center" width="25%" style="padding: 15px; border-left: 1px solid rgba(16,185,129,0.2);">
 
 **Cloud & DevOps**
 
@@ -168,146 +164,17 @@ achievements:
 
 ---
 
-## `[📊] Analytics Dashboard`
+## `[📊] Analytics`
 
 <div align="center">
 
-<!-- ANALYTICS HEADER SVG -->
-<svg width="90%" height="40" viewBox="0 0 800 40" xmlns="http://www.w3.org/2000/svg" style="margin: 20px auto;">
-  <defs>
-    <linearGradient id="analyticsGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#10B981;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#10B981;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#10B981;stop-opacity:0" />
-    </linearGradient>
-  </defs>
-  <line x1="0" y1="20" x2="800" y2="20" stroke="url(#analyticsGrad)" stroke-width="1.5" opacity="0.6"/>
-  <circle cx="400" cy="20" r="6" fill="#10B981" opacity="0.8">
-    <animate attributeName="r" values="6;9;6" dur="2.5s" repeatCount="indefinite"/>
-  </circle>
-</svg>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumans-19&show_icons=true&theme=transparent&title_color=10B981&icon_color=10B981&text_color=10B981&border_color=10B981&ring_color=10B981&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumans-19&layout=compact&theme=transparent&title_color=10B981&text_color=10B981&border_color=10B981" alt="Languages" />
 
 <br/>
 
-<table style="width: 90%; max-width: 900px; margin: 0 auto; border-collapse: collapse;">
-<tr>
-<td align="center" width="33.33%" style="padding: 25px; border: 1px solid rgba(16,185,129,0.25); background: linear-gradient(135deg, rgba(16,185,129,0.08) 0%, rgba(16,185,129,0.03) 100%);">
-
-### 📈 Projects
-```
-50+ Completed
-Full Stack & Security
-```
-
-</td>
-<td align="center" width="33.33%" style="padding: 25px; border: 1px solid rgba(16,185,129,0.25); border-left: none; background: linear-gradient(135deg, rgba(16,185,129,0.08) 0%, rgba(16,185,129,0.03) 100%);">
-
-### 🏆 Achievements
-```
-3 Hackathon Wins
-Multiple Championships
-```
-
-</td>
-<td align="center" width="33.33%" style="padding: 25px; border: 1px solid rgba(16,185,129,0.25); border-left: none; background: linear-gradient(135deg, rgba(16,185,129,0.08) 0%, rgba(16,185,129,0.03) 100%);">
-
-### ⭐ Academic
-```
-CGPA: 9.59
-Consistent Excellence
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table style="width: 90%; max-width: 900px; margin: 0 auto; border-collapse: collapse;">
-<tr>
-<td align="center" width="50%" style="padding: 25px; border: 1px solid rgba(16,185,129,0.25); border-top: none; background: linear-gradient(135deg, rgba(16,185,129,0.08) 0%, rgba(16,185,129,0.03) 100%);">
-
-### 💻 Tech Expertise
-```
-Languages: 4
-Frameworks: 10+
-Cloud Platforms: 3
-```
-
-</td>
-<td align="center" width="50%" style="padding: 25px; border: 1px solid rgba(16,185,129,0.25); border-left: none; border-top: none; background: linear-gradient(135deg, rgba(16,185,129,0.08) 0%, rgba(16,185,129,0.03) 100%);">
-
-### 🎯 Focus Areas
-```
-DevOps & Cloud Native
-Cybersecurity & Systems
-Full Stack Development
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- VISUAL SKILL REPRESENTATION -->
-<div style="width: 90%; max-width: 900px; margin: 30px auto; padding: 25px; border: 1px solid rgba(16,185,129,0.25); background: rgba(16,185,129,0.05);">
-
-<div style="text-align: left; font-size: 13px; line-height: 1.8; color: #10B981; font-family: 'JetBrains Mono', monospace;">
-
-```
-▓▓▓▓▓▓▓▓▓░ Backend Development      90%
-▓▓▓▓▓▓▓▓░░ Frontend Development     85%
-▓▓▓▓▓▓▓▓▓░ DevOps & Cloud           90%
-▓▓▓▓▓▓▓░░░ Cybersecurity            80%
-▓▓▓▓▓▓▓▓▓▓ Problem Solving          100%
-▓▓▓▓▓▓▓▓░░ System Design            85%
-```
-
-</div>
-
-</div>
-
-</div>
-
----
-
-## `[💻] GitHub Contributions`
-
-<div align="center">
-
-<svg width="90%" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg" style="margin: 20px auto; border: 1px solid rgba(16,185,129,0.25); border-radius: 4px; background: rgba(16,185,129,0.03);">
-  <defs>
-    <linearGradient id="barGrad" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" style="stop-color:#10B981;stop-opacity:0.3" />
-      <stop offset="100%" style="stop-color:#10B981;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  
-  <!-- Grid lines -->
-  <line x1="0" y1="100" x2="800" y2="100" stroke="rgba(16,185,129,0.1)" stroke-width="1"/>
-  <line x1="0" y1="60" x2="800" y2="60" stroke="rgba(16,185,129,0.08)" stroke-width="1" stroke-dasharray="4,2"/>
-  <line x1="0" y1="30" x2="800" y2="30" stroke="rgba(16,185,129,0.08)" stroke-width="1" stroke-dasharray="4,2"/>
-  
-  <!-- Bars -->
-  <rect x="60" y="50" width="35" height="50" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="110" y="40" width="35" height="60" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="160" y="30" width="35" height="70" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="210" y="45" width="35" height="55" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="260" y="35" width="35" height="65" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="310" y="42" width="35" height="58" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="360" y="28" width="35" height="72" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="410" y="38" width="35" height="62" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="460" y="48" width="35" height="52" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="510" y="32" width="35" height="68" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="560" y="41" width="35" height="59" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="610" y="36" width="35" height="64" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="660" y="44" width="35" height="56" fill="url(#barGrad)" opacity="0.9"/>
-  <rect x="710" y="33" width="35" height="67" fill="url(#barGrad)" opacity="0.9"/>
-  
-  <!-- Labels -->
-  <text x="400" y="115" font-family="JetBrains Mono, monospace" font-size="11" fill="#10B981" opacity="0.6" text-anchor="middle">Weekly Contribution Activity (Last 14 weeks)</text>
-</svg>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sumans-19&theme=transparent&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&border=10B981&dates=10B981" alt="Streak Stats" />
 
 </div>
 
@@ -315,7 +182,7 @@ Full Stack Development
 
 <div align="center">
 
-<!-- FOOTER DIVIDER SVG -->
+<!-- ANIMATED SVG FOOTER BORDER -->
 <svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" style="background: linear-gradient(90deg, rgba(16,185,129,0.05) 0%, rgba(16,185,129,0.1) 50%, rgba(16,185,129,0.05) 100%);">
   <defs>
     <linearGradient id="emeraldGlow2" x1="0%" y1="0%" x2="100%" y2="0%">
