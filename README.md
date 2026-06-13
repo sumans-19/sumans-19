@@ -22,7 +22,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
 ```yaml
 Name:       Suman S
@@ -35,7 +35,7 @@ Status:     Open to Opportunities
 ```
 
 </td>
-<td width="45%">
+<td width="65%">
             
 ```yaml
 Interests:
