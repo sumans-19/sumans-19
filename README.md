@@ -168,8 +168,6 @@
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sumans-19&theme=transparent&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&border=10B981&dates=10B981" alt="Streak Stats" />
-
 </div>
 
 ---
