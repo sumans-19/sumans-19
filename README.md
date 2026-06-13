@@ -34,7 +34,7 @@
 
 <!-- ENHANCED INTERACTIVE BADGES -->
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
-  
+
 <a href="https://linkedin.com/in/infosunman" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/LINKEDIN-10B981?style=flat-square&logo=linkedin&logoColor=000000&labelColor=10B981&label=%20&logoWidth=20&link=https://linkedin.com/in/infosunman" alt="LinkedIn" />
 </a>
@@ -73,40 +73,27 @@
 
 ---
 
-## `system_profile.conf`
-
-<table style="width: 100%;">
-<tr>
-<td width="50%" valign="top">
+## `[⚙️] System Profile`
 
 ```yaml
 operator:
-  name: Suman S
-  location: Mysuru, Karnataka, India
-  education: B.E. Computer Science @ VVCE
-  cgpa: 9.59
-  role: GDG-VVCE On-Campus Organizer
-  status: OPEN_TO_OPPORTUNITIES
-```
+  name:       Suman S
+  location:   Mysuru, Karnataka, India
+  education:  B.E. Computer Science, VVCE
+  cgpa:       9.59 / 10
+  role:       GDG-VVCE On-Campus Organizer
+  status:     OPEN_TO_OPPORTUNITIES
 
-</td>
-<td width="50%" valign="top">
-
-```yaml
 mission:
-  - "Building scalable & secure systems"
-  - "Threat detection & cybersecurity"
-  - "Cloud-native & DevOps pipelines"
+  - Building scalable & secure systems
+  - Threat detection & cybersecurity
+  - Cloud-native & DevOps pipelines
 
 achievements:
-  - "★ AI/ML HackAIthon 2026 — WINNER"
-  - "★ Infothon 2025 — CHAMPION"
-  - "★ DevOps Hackathon — WINNER"
+  - 🏆 AI/ML HackAIthon 2026 — Winner
+  - 🏆 Infothon 2025 — Champion
+  - 🏆 DevOps Hackathon — Winner
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
