@@ -74,7 +74,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### About
+### `[..] About`
 
 > Computer Science undergraduate at VVCE, Mysuru — building at the intersection of security and scalable systems. Focused on threat detection, cloud-native pipelines, and resilient architectures.
 
@@ -86,7 +86,7 @@
 </td>
 <td width="50%" valign="top">
 
-### Recognition
+### `[..] Recognition`
 
 >  **AI/ML HackAIthon 2026** — Winner  
 >  **Infothon 2025** — Champion  
