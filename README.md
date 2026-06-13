@@ -34,7 +34,7 @@
 
 <!-- ENHANCED INTERACTIVE BADGES -->
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
-  
+
 <a href="https://linkedin.com/in/infosunman" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/LINKEDIN-10B981?style=flat-square&logo=linkedin&logoColor=000000&labelColor=10B981&label=%20&logoWidth=20&link=https://linkedin.com/in/infosunman" alt="LinkedIn" />
 </a>
@@ -88,11 +88,9 @@
 
 ### Recognition
 
-```
- ◈  AI/ML HackAIthon 2026 .......... Winner
- ◈  Infothon 2025 .................. Champion  
- ◈  DevOps Hackathon ............... Winner
-```
+> 🏆 **AI/ML HackAIthon 2026** — Winner  
+> 🏆 **Infothon 2025** — Champion  
+> 🏆 **DevOps Hackathon** — Winner
 
 **Interests**
 - Scalable systems & secure architectures  
@@ -102,6 +100,7 @@
 </td>
 </tr>
 </table>
+
 ---
 
 ## `[..] Tech Stack`
