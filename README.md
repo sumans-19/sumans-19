@@ -62,9 +62,9 @@ Contact:     "sumanshanthakumar@gmail.com"
 
 <div align="center">
 
-<table>
+<table scroll="none">
 <tr>
-<td align="center" width="60%">
+<td align="center" width="50%" >
 
 ### 💻 Programming Languages
 <br>
