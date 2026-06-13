@@ -1,6 +1,8 @@
 <!-- ANIMATED TYPING - single line, compact -->
 <div align="center">
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=009D9EF7FF&width=435&lines=Hi+Coders+!!;I'm+Suman+S;" />
+</h1>
 <br>
 
 <!-- SOCIAL BADGES -->
@@ -17,7 +19,7 @@
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
-
+<div align="center">
 <table>
 <tr>
 <td width="55%">
@@ -50,7 +52,7 @@ Contact:     "sumanshanthakumar@gmail.com"
 </td>
 </tr>
 </table>
-
+</div>
 <!-- ANIMATED LINE -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
