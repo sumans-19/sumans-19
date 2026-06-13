@@ -1,122 +1,150 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
-<!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+Suman+S;%24+focus+%E2%86%92+Cybersecurity+%26+Systems;%24+status+%E2%86%92+Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=4&section=header" width="100%"/>
 
 <br/>
 
-<!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300D9FF.svg?style=flat-square&logo=linkedin&logoColor=0A0A0A&labelColor=00D9FF)](https://linkedin.com/in/infosunman)
-[![GitHub](https://img.shields.io/badge/GitHub-%2300D9FF.svg?style=flat-square&logo=github&logoColor=0A0A0A&labelColor=00D9FF)](https://github.com/sumans-19)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%2300D9FF.svg?style=flat-square&logo=leetcode&logoColor=0A0A0A&labelColor=00D9FF)](https://leetcode.com/sumans-19)
-[![Gmail](https://img.shields.io/badge/Gmail-%2300D9FF.svg?style=flat-square&logo=gmail&logoColor=0A0A0A&labelColor=00D9FF)](mailto:sumanshanthakumar@gmail.com)
+<!-- MINIMAL NAME BLOCK -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=0&pause=0&color=8B5CF6&center=true&vCenter=true&width=200&lines=SUMAN+S" alt="name" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=sumans-19&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=52&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Systems" alt="title" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.E.+Computer+Science+%E2%80%94+VVCE+Mysuru+%E2%80%94+CGPA%3A+9.59;GDG-VVCE+On-Campus+Organizer;Open+to+Opportunities" alt="subtitle" />
 
----
+<br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                      SYSTEM PROFILE                          ║
-╠══════════════════════════════════════════════════════════════╣
-║  operator    : Suman S                                       ║
-║  location    : Mysuru, Karnataka, India                      ║
-║  education   : B.E. Computer Science @ VVCE  [CGPA: 9.59]  ║
-║  focus       : Cybersecurity · System Design                 ║
-║  role        : GDG-VVCE On-Campus Organizer                 ║
-║  status      : [ OPEN TO OPPORTUNITIES ]                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/infosunman)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/sumans-19)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/sumans-19)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:sumanshanthakumar@gmail.com)
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                      MISSION BRIEF                           ║
-╠══════════════════════════════════════════════════════════════╣
-║  > Building scalable systems & secure architectures          ║
-║  > Passionate about Cybersecurity & Threat Detection         ║
-║  > Mastering Cloud Native & DevOps pipelines                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  ACHIEVEMENTS                                                ║
-║  [★] AI/ML HackAIthon 2026 ............... WINNER            ║
-║  [★] Infothon 2025 ........................ CHAMPION         ║
-║  [★] DevOps Hackathon ..................... WINNER           ║
-╚══════════════════════════════════════════════════════════════╝
-```
+![Views](https://komarev.com/ghpvc/?username=sumans-19&color=8B5CF6&style=flat-square&label=profile+views)
 
----
-
-## `~/tech-stack`
-
-<div align="center">
-
-**— LANGUAGES —**
-
-![C](https://img.shields.io/badge/C-00D9FF?style=flat-square&logo=c&logoColor=0A0A0A)
-![Java](https://img.shields.io/badge/Java-00D9FF?style=flat-square&logo=openjdk&logoColor=0A0A0A)
-![Python](https://img.shields.io/badge/Python-00D9FF?style=flat-square&logo=python&logoColor=0A0A0A)
-![JavaScript](https://img.shields.io/badge/JavaScript-00D9FF?style=flat-square&logo=javascript&logoColor=0A0A0A)
-
-**— FRONTEND —**
-
-![React](https://img.shields.io/badge/React-00D9FF?style=flat-square&logo=react&logoColor=0A0A0A)
-![Next.js](https://img.shields.io/badge/Next.js-00D9FF?style=flat-square&logo=nextdotjs&logoColor=0A0A0A)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-00D9FF?style=flat-square&logo=tailwindcss&logoColor=0A0A0A)
-
-**— BACKEND & DATABASE —**
-
-![Node.js](https://img.shields.io/badge/Node.js-00D9FF?style=flat-square&logo=nodedotjs&logoColor=0A0A0A)
-![Express](https://img.shields.io/badge/Express-00D9FF?style=flat-square&logo=express&logoColor=0A0A0A)
-![Flask](https://img.shields.io/badge/Flask-00D9FF?style=flat-square&logo=flask&logoColor=0A0A0A)
-![MongoDB](https://img.shields.io/badge/MongoDB-00D9FF?style=flat-square&logo=mongodb&logoColor=0A0A0A)
-![MySQL](https://img.shields.io/badge/MySQL-00D9FF?style=flat-square&logo=mysql&logoColor=0A0A0A)
-![Firebase](https://img.shields.io/badge/Firebase-00D9FF?style=flat-square&logo=firebase&logoColor=0A0A0A)
-
-**— CLOUD & DEVOPS —**
-
-![Docker](https://img.shields.io/badge/Docker-00D9FF?style=flat-square&logo=docker&logoColor=0A0A0A)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-00D9FF?style=flat-square&logo=kubernetes&logoColor=0A0A0A)
-![AWS](https://img.shields.io/badge/AWS-00D9FF?style=flat-square&logo=amazonwebservices&logoColor=0A0A0A)
-![Linux](https://img.shields.io/badge/Linux-00D9FF?style=flat-square&logo=linux&logoColor=0A0A0A)
-![Git](https://img.shields.io/badge/Git-00D9FF?style=flat-square&logo=git&logoColor=0A0A0A)
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=1&section=header" width="80%"/>
+<br/><br/>
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## `~/github-stats`
+### About
+
+> Computer Science undergraduate at VVCE, Mysuru — building at the intersection of security and scalable systems. Focused on threat detection, cloud-native pipelines, and resilient architectures.
+
+**Location** &nbsp;&nbsp; Mysuru, Karnataka, India  
+**Education** &nbsp; B.E. CSE @ VVCE · CGPA 9.59  
+**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GDG-VVCE On-Campus Organizer  
+**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Open to Opportunities`
+
+</td>
+<td width="50%" valign="top">
+
+### Recognition
+
+```
+ ◈  AI/ML HackAIthon 2026 .......... Winner
+ ◈  Infothon 2025 .................. Champion  
+ ◈  DevOps Hackathon ............... Winner
+```
+
+**Interests**
+- Scalable systems & secure architectures  
+- Cybersecurity & threat detection  
+- Cloud native & DevOps pipelines
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=1&section=header" width="80%"/>
+</div>
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumans-19&show_icons=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=00D9FF&border_color=00D9FF&ring_color=00D9FF&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumans-19&layout=compact&theme=transparent&title_color=00D9FF&text_color=00D9FF&border_color=00D9FF&hide_border=false" />
+<table>
+<tr><td align="center" colspan="2">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sumans-19&theme=transparent&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=00D9FF&border=00D9FF" />
+**Languages**
+
+![C](https://img.shields.io/badge/C-8B5CF6?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white)
+
+</td></tr>
+<tr>
+<td align="center" width="50%">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-8B5CF6?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-8B5CF6?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-8B5CF6?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8B5CF6?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-8B5CF6?style=flat-square&logo=firebase&logoColor=white)
+
+</td>
+</tr>
+<tr><td align="center" colspan="2">
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-8B5CF6?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-8B5CF6?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white)
+
+</td></tr>
+</table>
 
 </div>
 
----
+<br/>
 
-```
-╔═══════════════════════════════════════╗
-║         TRANSMISSION OPEN            ║
-╠═══════════════════════════════════════╣
-║  mail  : sumanshanthakumar@gmail.com  ║
-║  node  : Mysuru, Karnataka, India     ║
-║  phone : +91 7483907615              ║
-╚═══════════════════════════════════════╝
-```
+## GitHub Stats
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumans-19&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&border_color=8B5CF6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumans-19&layout=compact&theme=transparent&title_color=8B5CF6&text_color=ffffff&border_color=8B5CF6" />
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sumans-19&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&border=8B5CF6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=1" width="80%"/>
+<br/><br/>
+
+`sumanshanthakumar@gmail.com` &nbsp;·&nbsp; `Mysuru, Karnataka` &nbsp;·&nbsp; `+91 7483907615`
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=4" width="100%"/>
 </div>
