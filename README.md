@@ -68,7 +68,7 @@
 </div>
 
 ---
-
+![About](https://img.shields.io/badge/%24_About-10B981?style=flat-square&logoColor=white&labelColor=000000)
 ## <span style="font-family: 'JetBrains Mono', monospace; color: #10B981;">$ system_profile.conf</span>
 <table>
 <tr>
