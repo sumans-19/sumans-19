@@ -74,40 +74,38 @@
 ---
 
 ## `system_profile.conf`
-
-<table style="width: 100%;">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-```yaml
-operator:
-  name: Suman S
-  location: Mysuru, Karnataka, India
-  education: B.E. Computer Science @ VVCE
-  cgpa: 9.59
-  role: GDG-VVCE On-Campus Organizer
-  status: OPEN_TO_OPPORTUNITIES
-```
+### About
+
+> Computer Science undergraduate at VVCE, Mysuru — building at the intersection of security and scalable systems. Focused on threat detection, cloud-native pipelines, and resilient architectures.
+
+**Location** &nbsp;&nbsp; Mysuru, Karnataka, India  
+**Education** &nbsp; B.E. CSE @ VVCE · CGPA 9.59  
+**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GDG-VVCE On-Campus Organizer  
+**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Open to Opportunities`
 
 </td>
 <td width="50%" valign="top">
 
-```yaml
-mission:
-  - "Building scalable & secure systems"
-  - "Threat detection & cybersecurity"
-  - "Cloud-native & DevOps pipelines"
+### Recognition
 
-achievements:
-  - "★ AI/ML HackAIthon 2026 — WINNER"
-  - "★ Infothon 2025 — CHAMPION"
-  - "★ DevOps Hackathon — WINNER"
 ```
+ ◈  AI/ML HackAIthon 2026 .......... Winner
+ ◈  Infothon 2025 .................. Champion  
+ ◈  DevOps Hackathon ............... Winner
+```
+
+**Interests**
+- Scalable systems & secure architectures  
+- Cybersecurity & threat detection  
+- Cloud native & DevOps pipelines
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## `[📦] Tech Stack`
