@@ -58,13 +58,13 @@ Contact:     "sumanshanthakumar@gmail.com"
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="60%">
 
 ### 💻 Programming Languages
 <br>
