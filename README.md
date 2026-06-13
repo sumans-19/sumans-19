@@ -1,143 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=10B981&height=200&text=Suman%20S&fontColor=10B981&fontSize=70&fontAlignY=55&desc=Cybersecurity%20%26%20Systems%20Engineer&descSize=16&descAlignY=75&animation=twinkling" width="100%"/>
 
 <br/>
 
-<!-- MINIMAL NAME BLOCK -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=14&duration=0&pause=0&color=8B5CF6&center=true&vCenter=true&width=200&lines=SUMAN+S" alt="name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=52&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Systems" alt="title" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=B.E.+Computer+Science+%E2%80%94+VVCE+Mysuru+%E2%80%94+CGPA%3A+9.59;GDG-VVCE+On-Campus+Organizer;Open+to+Opportunities" alt="subtitle" />
+[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn%20─-10B981?style=for-the-badge&logo=linkedin&logoColor=111111&labelColor=10B981)](https://linkedin.com/in/infosunman)
+[![GitHub](https://img.shields.io/badge/─%20GitHub%20─-10B981?style=for-the-badge&logo=github&logoColor=111111&labelColor=10B981)](https://github.com/sumans-19)
+[![LeetCode](https://img.shields.io/badge/─%20LeetCode%20─-10B981?style=for-the-badge&logo=leetcode&logoColor=111111&labelColor=10B981)](https://leetcode.com/sumans-19)
+[![Mail](https://img.shields.io/badge/─%20Mail%20─-10B981?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=10B981)](mailto:sumanshanthakumar@gmail.com)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/infosunman)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white)](https://github.com/sumans-19)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-8B5CF6?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/sumans-19)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:sumanshanthakumar@gmail.com)
-
-![Views](https://komarev.com/ghpvc/?username=sumans-19&color=8B5CF6&style=flat-square&label=profile+views)
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=1&section=header" width="80%"/>
-<br/><br/>
+![Views](https://komarev.com/ghpvc/?username=sumans-19&color=10B981&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
+---
+
+<div align="center">
+
+```
+▸ B.E. Computer Science — VVCE, Mysuru  ·  CGPA: 9.59
+▸ GDG-VVCE On-Campus Organizer  ·  Mysuru, Karnataka, India
+▸ Focus: Cybersecurity · Threat Detection · Cloud-Native · DevOps
+```
+
+</div>
+
+---
+
+### ◈ &nbsp;Profile
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### About
+```diff
++ Scalable systems & secure architectures
++ Cybersecurity & Threat Detection  
++ Cloud Native & DevOps pipelines
+```
 
-> Computer Science undergraduate at VVCE, Mysuru — building at the intersection of security and scalable systems. Focused on threat detection, cloud-native pipelines, and resilient architectures.
-
-**Location** &nbsp;&nbsp; Mysuru, Karnataka, India  
-**Education** &nbsp; B.E. CSE @ VVCE · CGPA 9.59  
-**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GDG-VVCE On-Campus Organizer  
-**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Open to Opportunities`
+I build systems that don't break under pressure and don't leak under attack. Currently pursuing Computer Science at VVCE Mysuru while leading community tech initiatives as a GDG organizer.
 
 </td>
-<td width="50%" valign="top">
-
-### Recognition
+<td width="45%" valign="top">
 
 ```
- ◈  AI/ML HackAIthon 2026 .......... Winner
- ◈  Infothon 2025 .................. Champion  
- ◈  DevOps Hackathon ............... Winner
+ACHIEVEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+★  AI/ML HackAIthon 2026   Winner
+★  Infothon 2025           Champion
+★  DevOps Hackathon        Winner
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
-
-**Interests**
-- Scalable systems & secure architectures  
-- Cybersecurity & threat detection  
-- Cloud native & DevOps pipelines
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=1&section=header" width="80%"/>
-</div>
+---
 
-<br/>
-
-## Tech Stack
+### ◈ &nbsp;Tech Arsenal
 
 <div align="center">
 
-<table>
-<tr><td align="center" colspan="2">
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-8B5CF6?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white)
-
-</td></tr>
-<tr>
-<td align="center" width="50%">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-8B5CF6?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-8B5CF6?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-8B5CF6?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-8B5CF6?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-8B5CF6?style=flat-square&logo=firebase&logoColor=white)
-
-</td>
-</tr>
-<tr><td align="center" colspan="2">
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-8B5CF6?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-8B5CF6?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-8B5CF6?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white)
-
-</td></tr>
-</table>
+| Languages | Frontend | Backend & DB | Cloud & DevOps |
+|:---------:|:--------:|:------------:|:--------------:|
+| ![C](https://img.shields.io/badge/C-10B981?style=flat-square&logo=c&logoColor=111111) ![Java](https://img.shields.io/badge/Java-10B981?style=flat-square&logo=openjdk&logoColor=111111) ![Python](https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=111111) ![JS](https://img.shields.io/badge/JS-10B981?style=flat-square&logo=javascript&logoColor=111111) | ![React](https://img.shields.io/badge/React-10B981?style=flat-square&logo=react&logoColor=111111) ![Next](https://img.shields.io/badge/Next-10B981?style=flat-square&logo=nextdotjs&logoColor=111111) ![Tailwind](https://img.shields.io/badge/Tailwind-10B981?style=flat-square&logo=tailwindcss&logoColor=111111) | ![Node](https://img.shields.io/badge/Node-10B981?style=flat-square&logo=nodedotjs&logoColor=111111) ![Express](https://img.shields.io/badge/Express-10B981?style=flat-square&logo=express&logoColor=111111) ![Flask](https://img.shields.io/badge/Flask-10B981?style=flat-square&logo=flask&logoColor=111111) ![Mongo](https://img.shields.io/badge/Mongo-10B981?style=flat-square&logo=mongodb&logoColor=111111) ![MySQL](https://img.shields.io/badge/MySQL-10B981?style=flat-square&logo=mysql&logoColor=111111) ![Firebase](https://img.shields.io/badge/Firebase-10B981?style=flat-square&logo=firebase&logoColor=111111) | ![Docker](https://img.shields.io/badge/Docker-10B981?style=flat-square&logo=docker&logoColor=111111) ![K8s](https://img.shields.io/badge/K8s-10B981?style=flat-square&logo=kubernetes&logoColor=111111) ![AWS](https://img.shields.io/badge/AWS-10B981?style=flat-square&logo=amazonwebservices&logoColor=111111) ![Linux](https://img.shields.io/badge/Linux-10B981?style=flat-square&logo=linux&logoColor=111111) ![Git](https://img.shields.io/badge/Git-10B981?style=flat-square&logo=git&logoColor=111111) |
 
 </div>
 
-<br/>
+---
 
-## GitHub Stats
+### ◈ &nbsp;GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumans-19&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&border_color=8B5CF6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumans-19&layout=compact&theme=transparent&title_color=8B5CF6&text_color=ffffff&border_color=8B5CF6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sumans-19&show_icons=true&theme=transparent&title_color=10B981&icon_color=10B981&text_color=10B981&border_color=10B981" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumans-19&layout=compact&theme=transparent&title_color=10B981&text_color=10B981&border_color=10B981" />
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sumans-19&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=8B5CF6&border=8B5CF6" />
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=sumans-19&theme=transparent&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=10B981&border=10B981&dates=10B981" />
 
 </div>
 
-<br/>
+---
+
+### ◈ &nbsp;Connect
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=1" width="80%"/>
-<br/><br/>
 
-`sumanshanthakumar@gmail.com` &nbsp;·&nbsp; `Mysuru, Karnataka` &nbsp;·&nbsp; `+91 7483907615`
+```
+sumanshanthakumar@gmail.com  ·  Mysuru, Karnataka, India  ·  +91 7483907615
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=111111)](https://linkedin.com/in/infosunman)
+[![GitHub](https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/sumans-19)
+[![LeetCode](https://img.shields.io/badge/LeetCode-10B981?style=for-the-badge&logo=leetcode&logoColor=111111)](https://leetcode.com/sumans-19)
+[![Gmail](https://img.shields.io/badge/Gmail-10B981?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:sumanshanthakumar@gmail.com)
 
 <br/>
 
@@ -146,5 +106,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=10B981&height=80&section=footer" width="100%"/>
+
 </div>
