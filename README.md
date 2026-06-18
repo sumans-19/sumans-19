@@ -82,7 +82,7 @@
 **Location** &nbsp;&nbsp; Mysuru, Karnataka, India  
 **Education** &nbsp; B.E. CSE @ VVCE · CGPA 9.59  
 **Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GDG-VVCE On-Campus Organizer  
-**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Open to Opportunities`
+**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to Opportunities
 
 </td>
 <td width="50%" valign="top">
