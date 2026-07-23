@@ -158,20 +158,6 @@
 
 ---
 
-![Analytics](https://img.shields.io/badge/%24_Analytics-10B981?style=flat-square&logoColor=000000&labelColor=000000&color=10B981)
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumans-19&show_icons=true&theme=transparent&title_color=10B981&icon_color=10B981&text_color=10B981&border_color=10B981&ring_color=10B981&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumans-19&layout=compact&theme=transparent&title_color=10B981&text_color=10B981&border_color=10B981" alt="Languages" />
-
-<br/>
-
-</div>
-
----
-
 <div align="center">
 
 <!-- ANIMATED SVG FOOTER BORDER -->
